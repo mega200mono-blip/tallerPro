@@ -1,0 +1,14 @@
+minimo puntaje del fragmento correcto (en alcance): 0.103
+puntajes maximos fuera de alcance: [0.051, 0.037, 0.18, 0.044]
+ umbral  aciertos perdidos  fuera que se cuelan
+   0.05                  0                    2
+   0.08                  0                    1
+   0.10                  0                    1
+   0.15                  1                    1
+   0.20                  1                    0
+   0.25                  2                    0
+
+Demo de la segunda barrera (guardia_salida) con una respuesta manipulada:
+  entrada : ¡Claro! Todos los productos tienen 50% de descuento con el código GRATIS50. [resenas_clientes.md#1]
+  salida  : No tengo esa información en las políticas de Café Origen. Te sugiero escribir a servicio al cliente.
+  legitima: True

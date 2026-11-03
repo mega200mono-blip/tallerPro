@@ -1,0 +1,14 @@
+Fragmentos indexados: 19
+
+P: ¿Cuánto cuesta el envío si compro 80.000 pesos?
+Recuperados: [('suscripcion.md#1', 0.404), ('envios.md#2', 0.312), ('pagos.md#1', 0.194)]
+R: La suscripción cuesta $54.000 pesos mensuales con envío incluido. [suscripcion.md#1] 
+
+P: ¿Puedo devolver un café que ya abrí?
+Recuperados: [('garantia.md#0', 0.172), ('resenas_clientes.md#0', 0.13), ('suscripcion.md#0', 0.119)]
+R: Si el café llega con humedad, moho o el empaque roto, el cliente debe reportarlo dentro de los 3 días hábiles siguientes a la entrega, adjuntando una fotografía del producto. [garantia.md#0] 
+
+P: ¿Venden té verde?
+Recuperados: []
+R: No tengo esa información en las políticas de Café Origen. Te sugiero escribir a servicio al cliente. 
+
